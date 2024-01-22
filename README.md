@@ -19,6 +19,7 @@ Objectives :
 Steps taken: Exploratory data analysis, data fusion, univariate analysis of prices and sales, data visualisation, recommendations.
 
 Methodology/tools used : Python
+
 Results : The univariate analysis enabled us to detect outliers and the sales of the first 20 items represent 80% of total sales.
 
 Skills acquired
